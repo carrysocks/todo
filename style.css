@@ -17,3 +17,20 @@
 	z-index : -1;
 	animation: fadeIn 0.5s linear;
 }
+
+.show{
+	display:block;
+	animation: fadeIn 0.5s linear;
+}
+
+.hide{
+	display:none;
+	animation: fadeIn 0.5s linear;
+}
+
+.js-clock{
+	color:white;
+	width:100px;
+	font-size:100px;
+	margin:0 auto;
+}
